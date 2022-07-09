@@ -64,7 +64,7 @@ img{
 
 .lead{
     font-size: 2rem;
-    color: #AB3144;
+    color: #eee;
 }
 #projects{
     text-align: center;
@@ -109,7 +109,6 @@ img{
     
 }
 #projects .project-tile .box a p{
-   padding: 1.3rem;
     font-size: 1.2rem;
     font-weight: bold;
     text-align: center;
